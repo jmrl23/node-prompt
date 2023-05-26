@@ -11,5 +11,21 @@
   "devDependencies": {
     "@types/node": "^20.2.3",
     "typescript": "^5.0.4"
-  }
+  },
+  "types": "./dist/main.d.ts",
+  "description": "Make console prompt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmrl23/node-prompt.git"
+  },
+  "keywords": [
+    "prompt",
+    "nodejs",
+    "terminal",
+    "input"
+  ],
+  "bugs": {
+    "url": "https://github.com/jmrl23/node-prompt/issues"
+  },
+  "homepage": "https://github.com/jmrl23/node-prompt#readme"
 }
