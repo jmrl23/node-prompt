@@ -1,5 +1,5 @@
 {
-  "name": "node-prompt",
+  "name": "@jmrl23/node-prompt",
   "version": "1.0.0",
   "main": "dist/main.js",
   "author": "Jomariel Gaitera <gaiterajomariel@gmail.com>",
