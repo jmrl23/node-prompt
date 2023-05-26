@@ -1,0 +1,15 @@
+{
+  "name": "node-prompt",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "author": "Jomariel Gaitera <gaiterajomariel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  }
+}
